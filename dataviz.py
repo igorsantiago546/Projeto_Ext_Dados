@@ -22,12 +22,12 @@ st.plotly_chart(fig2)
 
 fig3 = px.bar(
     df2,
-    x="Categoria",
+    x="Produto",
     y="Preço",
     title="Gráfico de Barras",
-    labels={"Categoria": "Categorias", "Preço": "Preços"},
+    labels={"Produto": "Produtos", "Preço": "Preços"},
     text="Preço",
-    color="Categoria"
+    color="Produto"
 )
 
 
