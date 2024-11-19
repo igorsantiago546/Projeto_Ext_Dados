@@ -1,12 +1,12 @@
 Categoria,Desconto,Preço,Produto,Unnamed: 0
 Coller,-30%,6.99,"Ventoinha Rise Mode, 120mm, Preto - RM-BK-01-FB",0
 Coller,-31%,10.99,"Ventoinha Rise Mode, 120mm, Branco - RM-FN-01-BW",1
-Coller,-33%,179.99,"Water Cooler Rise Mode Gamer Black, RGB, 240mm, AMD/Intel, Preto - RM-WCB-02-RGB",2
+Coller,-37%,169.99,"Water Cooler Rise Mode Gamer Black, RGB, 240mm, AMD/Intel, Preto - RM-WCB-02-RGB",2
 Coller,-19%,79.99,"Kit Com 3 Ventoinhas Rise Mode Energy, 120mm, ARGB, Preto - FN-02-RGB-5V",3
 Coller,-44%,10.99,"Pasta Térmica Rise Mode Silver Frost, 5g, Cinza - RM-TG-01-FRT",4
-Coller,-50%,4.99,"Ventoinha Rise Mode Black, 80mm, Preto - RM-BK-02-FB",5
-Coller,-31%,109.99,"Kit Com 5 Ventoinhas Rise Mode Crystal Sound, 120mm, ARGB, Transparente - RM-CS-02-ARGB",6
-Coller,-18%,64.99,"Air Cooler Rise Mode Gamer G800, RGB, AMD/Intel, 90mm, Preto - RM-AC-O8-RGB",7
+Coller,-31%,109.99,"Kit Com 5 Ventoinhas Rise Mode Crystal Sound, 120mm, ARGB, Transparente - RM-CS-02-ARGB",5
+Coller,-18%,64.99,"Air Cooler Rise Mode Gamer G800, RGB, AMD/Intel, 90mm, Preto - RM-AC-O8-RGB",6
+Coller,-50%,4.99,"Ventoinha Rise Mode Black, 80mm, Preto - RM-BK-02-FB",7
 Coller,-33%,39.99,"Kit com 3 Ventoinhas Rise Mode X, 120mm, Led ARGB, Preto - RM-XLD-01-ARGB",8
 Coller,-30%,8.99,"Ventoinha Rise Mode, 120mm, Azul - RM-FN-01-BB",9
 Coller,-39%,29.99,"Ventoinha Rise Mode Hex Turbine PWM, 120mm, ARGB, Preto - RM-H-ARGB-TOR-B",10
@@ -17,68 +17,68 @@ Coller,-39%,84.99,"Kit Com 3 Ventoinhas Rise Mode, 120mm, RGB, Preto - RM-FN-02-
 Coller,-15%,10.99,"Ventoinha Rise Mode Wind W1, 120mm, LED Branco, Preto - RM-WN-01-BW",15
 Coller,-14%,29.99,"Ventoinha Rise Mode Galaxy Motherboard, 120mm, ARGB, Preto - RM-MB-01-5V",16
 Coller,-16%,99.99,"Kit Com 3 Ventoinhas Rise Mode Aura Pro Black, ARGB, 120mm, Preto - RM-AUB-02-ARGB",17
-Coller,-22%,399.98,"Water Cooler Rise Mode, RGB, 360mm, AMD/Intel, Preto - RM-WCB-03-RGB",18
-Coller,-33%,84.99,"Kit Com 3 Ventoinhas Rise Mode, 120mm, RGB Aura, Preto - RM-AU-02-RGB",19
-Coller,-23%,10.99,"Ventoinha Rise Mode Wind, Rainbow, 120mm, Preto - RM-WN-02-RGB",20
-Coller,-35%,199.99,"Water Cooler Gamer Rise Mode, 240mm, AMD/Intel, Preto - RM-WC-AB-240",21
+Coller,-27%,289.99,"Water Cooler Rise Mode, RGB, 360mm, AMD/Intel, Preto - RM-WCB-03-RGB",18
+Coller,-22%,84.99,"Kit Com 3 Ventoinhas Rise Mode, 120mm, RGB Aura, Preto - RM-AU-02-RGB",19
+Coller,-33%,159.99,"Air Cooler Rise Mode G800, ARGB, AMD/Intel, 90mm, Preto - RM-ACG8-ARGB-B",20
+Coller,-23%,199.99,"Water Cooler Gamer Rise Mode, 240mm, AMD/Intel, Preto - RM-WC-AB-240",21
 Coller,-37%,9.99,"Ventoinha Rise Mode, 120mm Vermelho RM-FN-01-BR",22
-Coller,-42%,25.99,"Air Cooler Rise Mode Z2 Pro, AMD/Intel, 92mm, Preto - RM-AC-Z2PRO",23
-Coller,-31%,49.99,"Kit com 3 Ventoinhas Rise Mode X, 120mm, Led ARGB, Branco - RM-XLD-02-ARGB",24
-Coller,-7%,7.99,"Ventoinha Rise Mode Wind W1, 120mm, LED Vermelho, Preto - RM-WN-01-BR",25
-Coller,-24%,109.99,"Kit Com 3 Ventoinhas Rise Mode Aura frost Pro, 120mm, ARGB, Branco - RM-CF-02-ARGB",26
-Coller,-64%,389.99,"Water Cooler Rise Mode Aura Ice Black, ARGB, 360mm, AMD/Intel, Preto - RM-WAIB-06-ARGB",27
-Coller,-23%,37.99,"Air Cooler Gamer Rise Mode Z5, LED Rainbow, AMD/Intel, 90mm, Preto - RM-ACZ-Z5-RGB",28
-Coller,-33%,17.99,"Pasta Térmica Rise Mode Silver Cold, 10w, 5g, Cinza - RM-TG-10-CLD",29
-Coller,-22%,229.99,"Water Cooler Rise Mode Z 240 Frost, RGB, 240mm, AMD/Intel, Branco - RM WCZ 02 RGB",30
-Coller,-40%,19.99,"Ventoinha Rise Mode Smart, RGB, 120mm, Preto - RM-FC-05-12V",31
-Coller,-39%,349.99,"Water Cooler Rise Mode ARGB, 360mm, AMD/Intel, Preto - RM-WCB-07-ARGB",32
-Coller,-30%,729.99,"Water Cooler Corsair H150 RGB, 360mm, AMD/Intel, Preto - CW-9060054-WW",33
-Coller,-15%,13.99,"Ventoinha Rise Mode Galaxy, Rainbow, 120mm, Preto - RM-FRM-02-RGB",34
-Coller,-33%,29.99,"Ventoinha Rise Mode Aura Pro, 120mm, ARGB, Preto - RM-AU-ARGB-B",35
-Coller,,29.99,Controladora Gamer Para Cooler Rise Mode PWM e RGB Hub - RM-COPW-RGB,36
-Coller,,89.99,"Kit Com 3 Ventoinhas Rise Mode Laser, 120mm, ARGB, Preto - RM-RGB-05-5V",37
-Coller,,10.99,"Ventoinha Rise Mode Wind W1, 120mm, LED Azul, Preto - RM-WN-01-BB",38
-Coller,,19.99,"Ventoinha Rise Mode Galaxy Motherboard, 120mm, RGB, Preto - RM-MB-01-12V",39
-Disco Rigido (HD),-21%,449.99,"HD Externo Seagate, 2TB, USB 3.0, Preto - STGX2000400",0
-Disco Rigido (HD),-18%,364.99,"HD Externo Seagate, 1TB, USB 3.0, Preto - STGX1000400",1
-Disco Rigido (HD),-11%,689.99,"HD WD Red Plus, NAS, 4TB, 3.5', Cache 256MB, 5400RPM, SATA - WD40EFPX",2
-Disco Rigido (HD),-12%,1309.99,"HD Seagate IronWolf, NAS, 8TB, 3.5', Cache 256MB, 7200RPM, SATA - ST8000VN004",3
-Disco Rigido (HD),-16%,349.99,"HD Interno WD Blue, 1TB, SATA, 3.5' - WD10EZEX",4
-Disco Rigido (HD),-5%,900.0,"HD Externo Seagate, 4TB, USB 3.0, Preto - STGX4000400",5
-Disco Rigido (HD),-11%,464.99,"HD Externo Toshiba Canvio Ready, 2TB, USB 3.0, Preto - HDTP320XK3AA",6
-Disco Rigido (HD),-14%,859.99,"HD Interno WD Black, 6TB, SATA, 3.5' - WD6004FZWX",7
-Disco Rigido (HD),-19%,29.99,"Case F3 para HD SATA 2.5, USB 3.0, Transparente - CS-U3T",8
-Disco Rigido (HD),-12%,999.99,"HD Externo WD Elements, 5TB, USB 3.0, Preto - WDBU6Y0050BBK-WESN",9
-Disco Rigido (HD),-10%,789.99,"HD Seagate IronWolf, NAS, 4TB, 3.5', Cache 256MB, 5400RPM, SATA - ST4000VN006",10
-Disco Rigido (HD),-15%,779.99,"HD Externo WD Elements, 4TB, USB 3.0, Preto - WDBU6Y0040BBK",11
-Disco Rigido (HD),-12%,509.99,"HD Externo WD Elements, 2TB, USB 3.0, Preto - WDBU6Y0020BBK",12
-Disco Rigido (HD),-12%,2019.99,"HD Surveillance WD Purple Pro, 10TB, 7200RPM, Cache 256MB, 3.5"", SATA - WD101PURP",13
-Disco Rigido (HD),-13%,399.99,"HD Externo WD Elements, 1TB, USB 3.0, Preto - STEA1000400",14
-Disco Rigido (HD),-35%,1149.99,"HD Externo WD Elements, 6TB, USB, Preto - WDBHJS0060BBK-WESN",15
-Disco Rigido (HD),-3%,474.99,"HD Interno Seagate BarraCuda, 2TB, SATA, 3.5' - ST2000DM008",16
-Disco Rigido (HD),-19%,969.99,"HD WD Red Plus, NAS, 6TB, 3.5', Cache 256MB, 5400RPM, SATA - WD60EFPX",17
+Coller,-35%,10.99,"Ventoinha Rise Mode Wind, Rainbow, 120mm, Preto - RM-WN-02-RGB",23
+Coller,-7%,49.99,"Kit com 3 Ventoinhas Rise Mode X, 120mm, Led ARGB, Branco - RM-XLD-02-ARGB",24
+Coller,-42%,25.99,"Air Cooler Rise Mode Z2 Pro, AMD/Intel, 92mm, Preto - RM-AC-Z2PRO",25
+Coller,-31%,389.99,"Water Cooler Rise Mode Aura Ice Black, ARGB, 360mm, AMD/Intel, Preto - RM-WAIB-06-ARGB",26
+Coller,-24%,7.99,"Ventoinha Rise Mode Wind W1, 120mm, LED Vermelho, Preto - RM-WN-01-BR",27
+Coller,-64%,109.99,"Kit Com 3 Ventoinhas Rise Mode Aura frost Pro, 120mm, ARGB, Branco - RM-CF-02-ARGB",28
+Coller,-23%,37.99,"Air Cooler Gamer Rise Mode Z5, LED Rainbow, AMD/Intel, 90mm, Preto - RM-ACZ-Z5-RGB",29
+Coller,-33%,17.99,"Pasta Térmica Rise Mode Silver Cold, 10w, 5g, Cinza - RM-TG-10-CLD",30
+Coller,-22%,229.99,"Water Cooler Rise Mode Z 240 Frost, RGB, 240mm, AMD/Intel, Branco - RM WCZ 02 RGB",31
+Coller,-10%,19.99,"Ventoinha Rise Mode Smart, RGB, 120mm, Preto - RM-FC-05-12V",32
+Coller,-40%,349.99,"Water Cooler Rise Mode ARGB, 360mm, AMD/Intel, Preto - RM-WCB-07-ARGB",33
+Coller,-39%,649.99,"Water Cooler Corsair H150 RGB, 360mm, AMD/Intel, Preto - CW-9060054-WW",34
+Coller,-30%,29.99,"Ventoinha Rise Mode Aura Pro, 120mm, ARGB, Preto - RM-AU-ARGB-B",35
+Coller,-15%,29.99,Controladora Gamer Para Cooler Rise Mode PWM e RGB Hub - RM-COPW-RGB,36
+Coller,,13.99,"Ventoinha Rise Mode Galaxy, Rainbow, 120mm, Preto - RM-FRM-02-RGB",37
+Coller,,89.99,"Kit Com 3 Ventoinhas Rise Mode Laser, 120mm, ARGB, Preto - RM-RGB-05-5V",38
+Coller,,10.99,"Ventoinha Rise Mode Wind W1, 120mm, LED Azul, Preto - RM-WN-01-BB",39
+Disco Rigido (HD),-18%,569.99,"HD Externo Seagate, 2TB, USB 3.0, Preto - STGX2000400",0
+Disco Rigido (HD),-12%,364.99,"HD Externo Seagate, 1TB, USB 3.0, Preto - STGX1000400",1
+Disco Rigido (HD),-16%,779.99,"HD WD Red Plus, NAS, 4TB, 3.5', Cache 256MB, 5400RPM, SATA - WD40EFPX",2
+Disco Rigido (HD),-5%,1309.99,"HD Seagate IronWolf, NAS, 8TB, 3.5', Cache 256MB, 7200RPM, SATA - ST8000VN004",3
+Disco Rigido (HD),-11%,349.99,"HD Interno WD Blue, 1TB, SATA, 3.5' - WD10EZEX",4
+Disco Rigido (HD),-14%,900.0,"HD Externo Seagate, 4TB, USB 3.0, Preto - STGX4000400",5
+Disco Rigido (HD),-19%,464.99,"HD Externo Toshiba Canvio Ready, 2TB, USB 3.0, Preto - HDTP320XK3AA",6
+Disco Rigido (HD),-12%,859.99,"HD Interno WD Black, 6TB, SATA, 3.5' - WD6004FZWX",7
+Disco Rigido (HD),-10%,29.99,"Case F3 para HD SATA 2.5, USB 3.0, Transparente - CS-U3T",8
+Disco Rigido (HD),-15%,789.99,"HD Seagate IronWolf, NAS, 4TB, 3.5', Cache 256MB, 5400RPM, SATA - ST4000VN006",9
+Disco Rigido (HD),-12%,999.99,"HD Externo WD Elements, 5TB, USB 3.0, Preto - WDBU6Y0050BBK-WESN",10
+Disco Rigido (HD),-12%,779.99,"HD Externo WD Elements, 4TB, USB 3.0, Preto - WDBU6Y0040BBK",11
+Disco Rigido (HD),-13%,509.99,"HD Externo WD Elements, 2TB, USB 3.0, Preto - WDBU6Y0020BBK",12
+Disco Rigido (HD),-35%,2019.99,"HD Surveillance WD Purple Pro, 10TB, 7200RPM, Cache 256MB, 3.5"", SATA - WD101PURP",13
+Disco Rigido (HD),-3%,399.99,"HD Externo WD Elements, 1TB, USB 3.0, Preto - STEA1000400",14
+Disco Rigido (HD),-11%,1149.99,"HD Externo WD Elements, 6TB, USB, Preto - WDBHJS0060BBK-WESN",15
+Disco Rigido (HD),-19%,474.99,"HD Interno Seagate BarraCuda, 2TB, SATA, 3.5' - ST2000DM008",16
+Disco Rigido (HD),-13%,969.99,"HD WD Red Plus, NAS, 6TB, 3.5', Cache 256MB, 5400RPM, SATA - WD60EFPX",17
 Disco Rigido (HD),-13%,12.99,"Case F3 Caddy para Notebook, 2.5', SATA - 1167",18
 Disco Rigido (HD),-13%,579.99,"HD Toshiba Surveillance S300, 4TB, 5400 RPM, SATA - HDWT840UZSVA",19
-Disco Rigido (HD),-10%,1022.07,"HD Externo WD My Passport, 4TB, USB 3.0, Preto - WDBPKJ0040BBK-WESN",20
-Disco Rigido (HD),-19%,19.99,"Case para HD Externo F3, 2.5´, USB 2.0, Preto - CS-U2",21
-Disco Rigido (HD),-13%,1299.9,"HD Externo Seagate Expansion, 8TB, USB 3.0 - STKP8000400",22
-Disco Rigido (HD),-12%,220.0,"HD Externo Seagate Expansion, 500GB, USB 3.0",23
-Disco Rigido (HD),-10%,735.0,"HD Interno WD Purple, 3TB, SATA, 3.5'- WD33PURZ",24
-Disco Rigido (HD),-6%,1789.99,"HD Interno WD Purple Pro Smart, 8TB, SATA, 3.5' - WD8002PURP",25
-Disco Rigido (HD),-14%,364.99,"HD Surveillance WD Purple, 1TB, 5400RPM, Cache 64MB, 3.5', SATA - WD11PURZ",26
-Disco Rigido (HD),-15%,2524.99,"HD WD Red Pro, NAS, 14TB, 3.5', Cache 512MB, 7200RPM, SATA - WD142KFGX",27
-Disco Rigido (HD),-23%,504.9,"HD Seagate 2TB Barracuda, 3.5, SATA - ST2000DM008",28
-Disco Rigido (HD),,364.99,"HD Externo Toshiba Canvio Ready, 1TB, USB 3.0, Preto - HDTP310XK3AA",29
-Disco Rigido (HD),,379.99,"HD Externo WD My Passport, 1TB, USB 3.0, Preto - WDBYVG0010BBK-WESN",30
-Disco Rigido (HD),,2659.15,Hd Seagate Skyhawk 20tb Sata De 6 Gb/s 512mb - St20000ve003,31
-Disco Rigido (HD),,1004.99,"HD Externo Portátil Seagate, 5TB, USB 3.0, Preto - STGX5000400",32
+Disco Rigido (HD),-10%,1313.54,"HD Externo Seagate Expansion, 8TB, USB 3.0 - STKP8000400",20
+Disco Rigido (HD),-19%,1022.07,"HD Externo WD My Passport, 4TB, USB 3.0, Preto - WDBPKJ0040BBK-WESN",21
+Disco Rigido (HD),-12%,649.99,"HD Interno WD Purple, 3TB, SATA, 3.5'- WD33PURZ",22
+Disco Rigido (HD),-6%,19.99,"Case para HD Externo F3, 2.5´, USB 2.0, Preto - CS-U2",23
+Disco Rigido (HD),-10%,1789.99,"HD Interno WD Purple Pro Smart, 8TB, SATA, 3.5' - WD8002PURP",24
+Disco Rigido (HD),-14%,220.0,"HD Externo Seagate Expansion, 500GB, USB 3.0",25
+Disco Rigido (HD),-15%,364.99,"HD Surveillance WD Purple, 1TB, 5400RPM, Cache 64MB, 3.5', SATA - WD11PURZ",26
+Disco Rigido (HD),,504.9,"HD Seagate 2TB Barracuda, 3.5, SATA - ST2000DM008",27
+Disco Rigido (HD),,2524.99,"HD WD Red Pro, NAS, 14TB, 3.5', Cache 512MB, 7200RPM, SATA - WD142KFGX",28
+Disco Rigido (HD),,1004.99,"HD Externo Portátil Seagate, 5TB, USB 3.0, Preto - STGX5000400",29
+Disco Rigido (HD),,364.99,"HD Externo Toshiba Canvio Ready, 1TB, USB 3.0, Preto - HDTP310XK3AA",30
+Disco Rigido (HD),,379.99,"HD Externo WD My Passport, 1TB, USB 3.0, Preto - WDBYVG0010BBK-WESN",31
+Disco Rigido (HD),,2659.15,Hd Seagate Skyhawk 20tb Sata De 6 Gb/s 512mb - St20000ve003,32
 Disco Rigido (HD),,1949.99,"HD Externo WD Elements Desktop, 12TB, USB 3.0, Preto - WDBWLG0120HBK-NESN",33
-Disco Rigido (HD),,1574.99,"HD Interno WD Gold Enterprise Class, 6TB, SATA, 3.5' - WD6003FRYZ",34
-Disco Rigido (HD),,1619.99,"HD Surveillance WD Purple, 8TB, 5640RPM, Cache 256MB, 3.5', SATA - WD85PURZ",35
+Disco Rigido (HD),,1619.99,"HD Surveillance WD Purple, 8TB, 5640RPM, Cache 256MB, 3.5', SATA - WD85PURZ",34
+Disco Rigido (HD),,1574.99,"HD Interno WD Gold Enterprise Class, 6TB, SATA, 3.5' - WD6003FRYZ",35
 Disco Rigido (HD),,2174.99,"HD Interno WD Gold Enterprise Class, 10TB, SATA, 3.5' - WD102KRYZ",36
 Disco Rigido (HD),,809.99,"HD Externo LaCie Rugged Mini, 2TB, USB, Laranja - LAC9000298",37
 Disco Rigido (HD),,30.14,"Case USB 3.0 para HD SATA 2.5"" Externo Transparente Infokit Gaveta para HD Ecase-300",38
-Disco Rigido (HD),,64.99,"Case para Hd Externo 3,5"" SATA USB 2.0, Preto JC-CS3.5",39
+Disco Rigido (HD),,2429.99,"HD Externo WD Elements Desktop Hard Drive, 16TB, USB 3.0, Preto - WDBWLG0160HBK-NESN",39
 Drivers,,229.0,Gravador Dvd Externo Dell Slim - Portátil - Usb - Preto - Dw316,0
 Drivers,,47.99,Gravador Dvd-rw Sata Asus 24x Drw-24f1mt/blk/b/as,1
 Drivers,,18.0,"Leitor De Cd E Dvd, Super Multi",2
@@ -91,8 +91,8 @@ Drivers,,145.27,"Leitor De Cartão SD Otg Cabletime, USB-C A 3.0",8
 Drivers,,162.0,"Drive Oem, Leitor E Gravador Dvd, Desktop Sata, Preto",9
 Drivers,,192.36,Leitor De Cartão Rfid Intelbras Le130,10
 Drivers,,92.66,"Gravador DVD Dex DG-200 SATA, 5.25""",11
-Drivers,,225.0,"Drive Externo 6 Em 1 Playshop, Hub Leitor E Gravador De Cd, Dvd, 2 Porta Usb 3.0 e Tipo C, 1 Slot Adaptador Cartão Micro Sd",12
-Drivers,,130.8,"Drive Knup Gravador Externo, CD e DVD, Compatível com Notebook e Desktop - Kp-le303",13
+Drivers,,130.8,"Drive Knup Gravador Externo, CD e DVD, Compatível com Notebook e Desktop - Kp-le303",12
+Drivers,,225.0,"Drive Externo 6 Em 1 Playshop, Hub Leitor E Gravador De Cd, Dvd, 2 Porta Usb 3.0 e Tipo C, 1 Slot Adaptador Cartão Micro Sd",13
 Drivers,,210.0,"Gravador de CD e DVD Dex Slim, Externo, Plug & Play - Dg-320c",14
 Drivers,,74.35,Cd-Rom Drive Samsung SH-C522,15
 Drivers,,164.89,Gravador De Voz Digital 32GB,16
@@ -106,16 +106,336 @@ Drivers,,152.09,"Gravador Drive DVD SATS 18 X Knup, 3.5 Polegadas - Kp-Le301 - O
 Drivers,,319.84,"Fita Sony LTO6, 2500/6250GB - LTX2500",24
 Drivers,,149.9,Tartarugas Ninja 2 Michelangelo Funko Pop,25
 Drivers,,419.9,Star Wars The Mandalorian With The Child Television Moments Funko Pop,26
-Drivers,,48.44,Cabo Usb Tipo C Baseus I6s Preto 1m,27
-Drivers,,66.68,Gravador De Dvd Faster Bl-0224 Bluecase,28
+Drivers,,66.68,Gravador De Dvd Faster Bl-0224 Bluecase,27
+Drivers,,48.44,Cabo Usb Tipo C Baseus I6s Preto 1m,28
 Drivers,,343.75,Cabo Usb Topk An24 Azul 1m,29
-Drivers,,478.13,Cabo Usb Para Carregar Tipo C Baseus 100 W Vermelho Preto 5 Unidades 1m,30
-Drivers,,478.13,Cabo Usb Para Carregar Tipo C Baseus 100 W Preto 5 Unidades 1m,31
-Drivers,,296.88,Cabo Usb Magnético Tipo C Topk Am68 Preto 1m Para Micro Usb,32
-Drivers,,856.25,Cabo Usb Para Carregar Tipo C Baseus 100 W Preto 10 Unid. 1m,33
-Drivers,,312.5,Cabos Para Carregamento Iphone Tipo C Topk A1 Micro Cabo 1m 1 Pcs,34
-Drivers,,56.25,Cabo Usb Tipo C Baseus 5n 100w Preto 1m,35
+Drivers,,478.13,Cabo Usb Para Carregar Tipo C Baseus 100 W Preto 5 Unidades 1m,30
+Drivers,,478.13,Cabo Usb Para Carregar Tipo C Baseus 100 W Vermelho Preto 5 Unidades 1m,31
+Drivers,,856.25,Cabo Usb Para Carregar Tipo C Baseus 100 W Preto 10 Unid. 1m,32
+Drivers,,312.5,Cabos Para Carregamento Iphone Tipo C Topk A1 Micro Cabo 1m 1 Pcs,33
+Drivers,,56.25,Cabo Usb Tipo C Baseus 5n 100w Preto 1m,34
+Drivers,,296.88,Cabo Usb Magnético Tipo C Topk Am68 Preto 1m Para Micro Usb,35
 Drivers,,115.0,Gravador Externo - Dvd - Cd - Usb 2.0 Slim Portatil,36
-Drivers,,180.41,Gravador Ativado Por Voz 8GB Savetek,37
-Drivers,,539.9,The Mandalorian The Child W/ Egg Canister Baby Yoda - Funko Pop,38
-Drivers,,13.0,Cabo Micro Usb 1mt Nylon Trançado Rainbow M510rb Elg,39
+Drivers,,539.9,The Mandalorian The Child W/ Egg Canister Baby Yoda - Funko Pop,37
+Drivers,,13.0,Cabo Micro Usb 1mt Nylon Trançado Rainbow M510rb Elg,38
+Drivers,,466.83,"Fita De Cartucho De Dados Fujifilm Lto Ultrium 7, 6TB, Com Tecnologia De Ferrite De Bário - 16456574f",39
+Fontes,-9%,269.99,"Fonte MSI MAG A650BN, 650W, 80 Plus Bronze, PFC Ativo, Com Cabo, Preto - 306-7ZP2B22-CE0",0
+Fontes,-5%,269.99,"Fonte MSI MAG A600DN, 600W, 80 Plus White, PFC Ativo, Com Cabo, Preto - 306-7ZP6B22-809",1
+Fontes,-32%,549.99,"Fonte MSI MAG A850GL, 850W, 80 Plus Gold, Modular, PFC Ativo, Com Cabo, Preto",2
+Fontes,-2%,209.99,"Fonte Gamer Rise Mode Zeus, 500W, PFC Ativo, Preto - RM-PSU-01-WT-500",3
+Fontes,-11%,439.99,"Fonte XPG Kyber, 850W, 80 Plus Gold, Com Cabo, Preto - KYBER850G-BKCBR",4
+Fontes,-2%,314.99,"Fonte Gamer Rise Mode Zeus, 650W, Modular, PFC Ativo, Preto - RM-PSU-01-BZ-650",5
+Fontes,-15%,269.99,"Fonte Gamer Rise Mode Zeus, 550w, 80 Plus Bronze, Modular, PFC Ativo, Preto - RM-PSU-01-BZ-550",6
+Fontes,-38%,49.9,"Fonte Fortrek PWS-2003, 200W, Sem Cabo, Prata - FK420P",7
+Fontes,-9%,549.99,"Fonte MSI MAG A750GL, 750W, 80 Plus Gold, Modular, PFC Ativo, Com Cabo, Preto",8
+Fontes,-1%,239.99,"Fonte KBM! GAMING FN650, 650W, 80 Plus Bronze, Cybenetics Bronze, PFC ativo, Com Cabo, Preto - KBFN65065PT",9
+Fontes,-12%,129.99,"Fonte Gamer Fortrek ATX Crusader, 500W, Sem Cabo, Preto - 76955",10
+Fontes,-15%,349.99,"Fonte Gamemax GP750, 750W, 80 Plus Bronze, PFC Ativo, Com Cabo, Preto - GP750",11
+Fontes,-4%,684.99,"Fonte XPG Core Reactor, 850W, 80 Plus Gold, Modular, Com Cabo, Preto - Core Reactor",12
+Fontes,-1%,799.99,"Fonte Corsair RMx Series RM850x, 850W, 80 Plus Gold, Modular, Sem Cabo, Preto - CP-9020200-WW",13
+Fontes,-9%,419.99,"Fonte Cooler Master MWE Bronze V2 Full Range, 750W, 80 Plus Bronze, PFC Ativo, Sem Cabo, Preto - MPE-7501-ACAAW-BBR",14
+Fontes,-36%,679.99,"Fonte Gamer Rise Mode Zeus, 1000W, 80 Plus Platinum, Modular, PFC Ativo, Preto - RM-PSU-01-PA-1000",15
+Fontes,-15%,334.99,"Fonte Gigabyte P650B, 650W, 80 Plus Bronze, PFC Ativo, Com Cabo, Preto - GP-P650B/BR",16
+Fontes,-29%,589.99,"Fonte XPG Core Reactor, 650W, 80 Plus Gold, Modular, PFC Ativo, Com Cabo, Preto",17
+Fontes,-25%,789.99,"Fonte XPG Core Reactor II 850G-BKCBR, 850W, 80 Plus Gold, Modular, PFC Ativo, Com Cabo, Preto - 75261198",18
+Fontes,-19%,679.99,"Fonte MSI MAG A850GL, 850W, 80 Plus Gold, Modular, PFC Ativo, Branco - MAG A850GL PCIE5 WHITE",19
+Fontes,-17%,204.99,"Fonte Duex DX 500FSE++, 500W, 80 Plus Bronze, Modular, PFC Ativo, Preto - DX500FSE++",20
+Fontes,-34%,649.99,"Fonte XPG Core Reactor, 750W, 80 Plus Gold, Modular, PFC Ativo, Com Cabo, Preto - Core Reactor",21
+Fontes,,1049.99,"Fonte Corsair RM1000X, 1000W, 80 Plus Gold, Modular, Sem Cabo, Preto - 9020201-BR",22
+Fontes,,189.99,"Fonte Fortrek Black Hawk, 400W, 80 Plus White, Sem Cabo, Preto - 70458",23
+Fontes,,799.99,"Fonte Corsair RMe Series RM850e, 850W, 80 Plus Gold, Modular, Sem Cabo, Preto - CP-9020263-BR",24
+Fontes,,719.99,"Fonte Corsair RM750X, 750W, 80 Plus Gold, Modular, Sem Cabo, Preto - 9020199-BR",25
+Fontes,,569.99,"Fonte XPG Core Reactor II VE, 850W, 80 Plus Gold, Modular, PFC Ativo, Preto - 75261436",26
+Fontes,,123.99,"Fonte Aerocool VX-350, 350W, Sem Cabo, Preto - EN57181",27
+Fontes,,334.99,"Fonte Cooler Master MWE Bronze V2 Full Range, 550W, 80 Plus Bronze, PFC Ativo, Com Cabo, Preto - MPE-5501-ACAAW-BBR",28
+Fontes,,279.99,"Fonte Redragon RGPS, 500W, 80 Plus Bronze, Sem Cabo, Preto - GC-PS001-1",29
+Fontes,,589.99,"Fonte Gigabyte Ultra Durable UD750GM, 750W, 80 Plus Gold, Modular, PFC Ativo, Com Cabo, Preto - GP-UD750GM",30
+Fontes,,799.99,"Fonte ASUS TUF Gaming, 850W, 80 Plus Gold, Modular, PFC Ativo, Sem Cabo, Preto - 90YE00S2-B0BA00",31
+Fontes,,229.99,"Fonte Fortrek Black Hawk, 500W, 80 Plus Bronze, PFC Ativo, Sem Cabo, Preto - 70459",32
+Fontes,,369.99,"Fonte Gamdias Cyclops M1-750B, 750W, 80 Plus Bronze, PFC Ativo, Sem Cabo, Preto - B0D2361HWG",33
+Fontes,,989.99,"Fonte MSI MPG A1000G, 1000W, 80 Plus Gold, Modular, PFC Ativo, Com Cabo, Preto - MPG A1000G PCIE5",34
+Fontes,,599.99,"Fonte Gamer Rise Mode Zeus, 850W, Modular, PFC Ativo, Preto - RM-PSU-01-PA-850",35
+Fontes,,539.99,"Fonte MSI MAG A650GL, 650W, 80 Plus Gold, Modular, PFC Ativo, Com Cabo, Preto",36
+Fontes,,659.99,"Fonte Gigabyte Ultra Durable UD850GM, 850W, 80 Plus Gold, Modular, PFC Ativo, Com Cabo, Preto - GP-UD850GM",37
+Fontes,,1299.99,"Fonte ASUS TUF Gaming, 1200W, 80 Plus Gold, Modular, PFC Ativo, Sem Cabo, Preto - 90YE00S0-B0BA00",38
+Fontes,,129.06,"Fonte Aerocool ATX VX-350, 350W, PFC Ativo, Sem Cabo, Bivolt - EN57181",39
+Kit_Hardware,,469.99,"Kit Upgrade, Placa Mãe H81 + Processador I5 4570 + Memoria 8GB, DDR3 + Cooler",0
+Kit_Hardware,,529.0,"Kit Powerpc, Placa Mãe H81 + Processador I5 4570 + 16GB RAM, DDR3 + Cooler",1
+Kit_Hardware,,1851.99,"Kit Upgrade AMD Ryzen 5 5600G, Placa Mae A520M-E, 16GB DDR4, Neologic - Nli84110",2
+Kit_Hardware,,1513.77,"Kit Upgrade AMD Ryzen 5 4600G, Placa Mae A520M, 16GB DDR4, Neologic - Nli84045",3
+Kit_Hardware,,1528.7,"Kit Upgrade AMD Ryzen 5 5600G, Placa Mae A520M-E, Neologic - Nli84111",4
+Kit_Hardware,,1458.1,"Kit Upgrade AMD Ryzen 5 4500, Placa Mae A520M, 16GB DDR4, Neologic - Nli84048",5
+Kit_Hardware,,789.99,"Kit Pl Mãe H110 + Processador I5 6500 + Memoria 8GB, D4 + Cooler",6
+Kit_Hardware,,755.0,Kit Upgrade Powerpc Placa Mãe H81 + Processador I7 4770 + Memória 16GB DDR3 + Cooler,7
+Kit_Hardware,,1270.63,Placa De Video Pcyes Nvidia Geforce Gtx 1660 Super 6GB GDDR6 192bits Dual-fan Graffiti Series - Pa1660s6gr6df,8
+Kit_Hardware,,295.5,Kit Upgrade com Placa Mãe H61 + Processador I3 2100 + Memoria 8 GB DDR3 + Cooler Rede 10 100,9
+Kit_Hardware,,1750.0,Kit Upgrade Intel I7-6700 + Ddr4 16gb + Nvme 512gb + Mb H110,10
+Kit_Hardware,,679.9,Kit Pl Mãe H110 + Processador I3 6100 + Memoria 8 Gb Ddr4 + Cooler,11
+Kit_Hardware,,424.6,"Kit Upgrade, Placa Mãe H61 + Processador I5 3470 + Memoria 16Gb Ddr3 + Cooler",12
+Kit_Hardware,,635.0,Kit Placa Mãe H81 + Processador I7 4770 + Cooler,13
+Kit_Hardware,,690.91,Kit Powerpc Placa-Mãe H110 + Processador I3 7100 + Memória 8GB DDR4 + Cooler,14
+Kit_Hardware,,1717.8,Kit Upgrade Gamer Amd Ryzen 5 5600g Mb A520 16gb Ddr4,15
+Kit_Hardware,,275.5,Kit Upgrade Powerpc: Placa Mãe H61 + Processador I3 2100 + Memória 4 GB DDR3 + Cooler - OEM,16
+Kit_Hardware,,487.9,Kit Pl Mãe H81 + Processador I5 4570 + Memoria 16 Gb Ddr3,17
+Kit_Hardware,,395.9,"Kit Placa Mãe H61 + Processador I5 3470 + Memoria RAM 8GB, DDR3 + Cooler",18
+Kit_Hardware,,539.99,Kit Placa-Mãe H61 + Processador I5 3470 + Memória 8GB + Cooler + SSD 256GB M2,19
+Kit_Hardware,,1499.83,Kit Upgrade com Placa Mãe H310 + Processador I5 8500 + Memória 16GB DDR4 + Cooler + SSD M.2 512GB,20
+Kit_Hardware,,1416.0,"Kit Upgrade Intel I7-6700, Ddr4 16gb, Placa Mãe H110 Gigalan",21
+Kit_Hardware,,1000.8,Kit Powerpc Placa-Mãe H110 + Processador I5 7400 + Memória 8GB DDR4 + Cooler + M.2 256GB,22
+Kit_Hardware,,583.0,Kit Upgrade Intel I5-3470 + Ddr3 16gb + Placa Mãe H61/ B75,23
+Kit_Hardware,,636.25,Kit Placa-Mãe H81 + Processador I5 4570 + Memória 8GB DDR3 + Cooler + SSD 240GB M2,24
+Kit_Hardware,,899.0,Kit Upgrade - Placa-Mãe H81 + Processador I7 4770 + Memória 16GB DDR3 + Cooler + SSD M.2 256GB,25
+Kit_Hardware,,2099.0,"Kit Upgrade, Placa Asus Proc. I5 11400f, 32GB DDR4 3200mhz",26
+Kit_Hardware,,298.02,"Kit Upgrade, Placa Mãe H61 + Processador I3 3220 + Memoria 4 Gb Ddr3 + Cooler",27
+Kit_Hardware,,275.5,Kit Upgrade Placa Mãe H61+ Processador I3 2100 + Memoria 4 GB DDR3 + Cooler Rede 10 100,28
+Kit_Hardware,,288.24,Kit Placa Mãe H81 + Processador I3 4130,29
+Kit_Hardware,,1799.99,Kit Pl Mãe H110 + Proc. I7 8700 + Mem. 32gb Ddr4 + Cooler,30
+Kit_Hardware,,474.01,Kit Placa Mãe H81 + Processador I5 4570s + Memoria 8GB DDR3 + Cooler,31
+Kit_Hardware,,1509.19,Kit Upgrade Processador Intel® Core™ I5 10400f + Placa Mãe Asrock H510-hdv M.2,32
+Kit_Hardware,,1100.0,"Kit Upgrade Kaikora Gamer, Intel I5 OEM 6ª Geração H110 + Memória 8GB DDR4",33
+Kit_Hardware,,1059.0,Kit Upgrade Powerpc: Placa Mãe H310 + Processador I5 8500 + Memória 8GB DDR4 + Cooler,34
+Kit_Hardware,,454.01,"Kit Pl Mãe H81-10/100 + Processador I5 4570 + Memoria 4 GB, DDR3 + Cooler",35
+Kit_Hardware,,869.99,Kit Pl Mãe H61 + Proc I7 3770s + Memoria 16 Gb Ddr3 + Cooler+ SSD 480,36
+Kit_Hardware,,1052.68,Kit Upgrade PowerPC com Placa Mãe H81 + Processador I7 4770 + Memória 16GB DDR3 + Cooler + SSD M.2 512GB,37
+Kit_Hardware,,693.65,Kit Pl Mãe H61 + Processador I3 2100 + Mem 4 Gb Ddr3 + Cooler + Fonte,38
+Kit_Hardware,,939.99,"Kit Pl H110 + Proc I5 6500 + Mem 8 GB,DDR4 + Cooler + SSD 240",39
+Memoria_Ram,-15%,169.99,"Memória RAM Kingston Fury Beast, 8GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB/8",0
+Memoria_Ram,-13%,273.99,"Memória RAM Kingston Fury Beast, 16GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB1/16",1
+Memoria_Ram,-12%,164.99,"Memória RAM XPG Gammix D35, 8GB, 3200MHz, DDR4, CL16, Preto - AX4U32008G16A-SBKD35",2
+Memoria_Ram,-45%,74.99,"Memória RAM Rise Mode, 8GB, 1600MHz, DDR3, CL11 - RM-D3-8G1600V",3
+Memoria_Ram,-19%,259.99,"Memória RAM XPG Spectrix D35G, RGB, 16GB, 3200MHz, DDR4, CL16, Preto - AX4U320016G16A-SBKD35G",4
+Memoria_Ram,-53%,249.99,"Memória Gamer Husky Gaming Avalanche, 16GB, 3200MHz, DDR4, CL19, Preto - HGMF008",5
+Memoria_Ram,-10%,269.99,"Memória RAM XPG Spectrix D35G, RGB, 16GB, 3200MHz, DDR4, CL16, Branco - AX4U320016G16A-SWHD35G",6
+Memoria_Ram,-16%,54.99,"Memória RAM para Notebook Rise Mode Value Series, 8GB, 1600MHz, DDR3L, CL11 - RM-D3-8G1600NL",7
+Memoria_Ram,-14%,248.99,"Memória RAM para Notebook Kingston Fury Impact, 16GB, 3200MHz, DDR4, CL20 - KF432S20IB/16",8
+Memoria_Ram,-11%,349.99,"Memória RAM Kingston Fury Beast, RGB, 16GB, 3200MHz, DDR4, CL16, Preto - KF432C16BB12A/16",9
+Memoria_Ram,-8%,243.0,"Memória RAM Rise Mode Z, 16GB, 3200MHz, DDR4, CL16, Preto - RM-D4-16G-3200Z",10
+Memoria_Ram,-8%,59.99,"Memória RAM Gamer Rise Mode Value, 8GB, 1600MHz, DDR3L, CL11, Preto - RM-D3-8G1600VL",11
+Memoria_Ram,-15%,129.99,"Memória RAM Rise Mode Z, 8GB, 3200MHz, DDR4, CL16, Branco - RM-D4-8G-3200ZW",12
+Memoria_Ram,-42%,299.99,"Memória RAM XPG Gammix D35, 16GB, 3200MHz, DDR4, CL16, Preto - AX4U320016G16A-SBKD35",13
+Memoria_Ram,-1%,139.99,"Memória RAM Para Notebook Kingston Fury Impact, 8GB, 3200MHz, DDR4, CL20 - KF432S20IB/8",14
+Memoria_Ram,-11%,999.99,"Memória RAM XPG Lancer, RGB, 32GB (2x16GB), 6000MHz, DDR5, CL30, Preto - AX5U6000C3016G-DCLARBK",15
+Memoria_Ram,-8%,119.99,"Memória Husky Gaming, 8GB, 2666MHz, DDR4, CL19, Preto - HGMF001",16
+Memoria_Ram,-30%,119.99,"Memória RAM para Notebook Rise Mode, 8GB, 2400MHz, DDR4, CL17 - RM-D4-8G-2400VN",17
+Memoria_Ram,-10%,129.99,"Memória Para Notebook Husky Technologies, 8GB, 3200MHz, DDR4, CL19 - HTCQ002",18
+Memoria_Ram,,299.99,"Memória RAM Kingston Fury Beast, 16GB (2x8GB), 3200MHz, DDR4, CL16, Preto - KF432C16BBK2/16",19
+Memoria_Ram,,279.99,"Memoria RAM Para Notebook Rise Mode Value, 16GB, 3200MHZ, DDR4, CL22 - RM-D4-16G-3200VN",20
+Memoria_Ram,,139.99,"Memória RAM 8GB KBM! Gaming, Preto, 3200 MHz, DDR4, CL22 - KGRM32000822PT",21
+Memoria_Ram,,209.99,"Memória Gamer Husky Gaming, 16GB, 2666MHz, DDR4, CL19, Preto - HGMF002",22
+Memoria_Ram,,114.99,"Memória RAM 8GB KBM! Gaming, 2666 MHz, DDR4, Cl19 - KGRM26000819PT",23
+Memoria_Ram,,154.99,"Memória RAM Corsair Vengeance LPX, 8GB, 2400MHz, DDR4, CL16, Preto - CMK8GX4M1A2400C16",24
+Memoria_Ram,,219.99,"Memória RAM Corsair Vengeance LPX, 16GB, 3200MHz, DDR4, CL16, Preto - CMK16GX4M1E3200C16",25
+Memoria_Ram,,106.99,"Memória RAM para Notebook Husky Technologies, 8GB, 2666MHz, DDR4, CL19 - HTCQ001",26
+Memoria_Ram,,129.99,"Memória RAM para Notebook KABUM! TECH, 8GB, 2666MHz, DDR4, CL19 - KTRMN260008PT",27
+Memoria_Ram,,599.99,"Memória RAM Corsair Vengeance LPX, 32GB (2x16GB), 3600MHz, DDR4, CL18, Preto - CMK32GX4M2D3600C18",28
+Memoria_Ram,,829.99,"Memória RAM Corsair Vengeance RGB, 32GB (2x16GB), 5200MHz, DDR5, CL40, Preto - CMH32GX5M2B5200C40",29
+Memoria_Ram,,39.99,"Memória RAM Rise Mode, 4GB, 1600MHz, DDR3, CL11 - RM-D3-4G1600V",30
+Memoria_Ram,,239.99,"Memória RAM Rise Mode Z, 16GB, 3200MHz, DDR4, CL16, Branco - RM-D4-16G-3200ZW",31
+Memoria_Ram,,189.99,"Memória Para Notebook Husky Technologies, 16GB, 3200MHz, DDR4, CL19 - HTCQ004",32
+Memoria_Ram,,69.99,"Memória RAM para Notebook Rise Mode Value Series, 4GB, 1600MHz, DDR3L, CL11 - RM-D3-4G1600NL",33
+Memoria_Ram,,319.99,"Memória RAM para Notebook Corsair Vengeance Series, 16GB, 3200MHz, DDR4, CL22, Preto - CMSX16GX4M1A3200C22",34
+Memoria_Ram,,619.99,"Memória RAM Corsair Vengeance RGB RS, 32GB (2x16GB), 3200MHz, DDR4, CL16, Preto - CMG32GX4M2E3200C16",35
+Memoria_Ram,,262.99,"Memória RAM Corsair Vengeance LPX, 16GB, 2400MHz, DDR4, CL16, Preto - CMK16GX4M1A2400C16",36
+Memoria_Ram,,1134.99,"Memória RAM Corsair Vengeance RGB, 32GB (2x16GB), 6200MHz, DDR5, CL36, Preto - CMH32GX5M2B6200C36",37
+Memoria_Ram,,139.99,"Memória RAM Corsair Vengeance LPX, 8GB, 3200MHz, DDR4, CL16, Preta - CMK8GX4M1E3200C16",38
+Memoria_Ram,,249.99,"Memória RAM para Notebook Corsair Vengeance, 16GB, 2666MHz, DDR4, CL18, Preto - CMSX16GX4M1A2666C18",39
+Placas_Interfaces,,31.14,"Placa Pci Express 4.0 4x, Para HD, SSD Nvme M.2 F3 Pla-nm - 1506",0
+Placas_Interfaces,,62.29,Placa USB 3.0 PCI Express 1x PC Computador 4 Portas Saidas,1
+Placas_Interfaces,,83.9,Placa Pci Usb 2.0 Hb-T74 Knup,2
+Placas_Interfaces,,79.88,"Placa Pci F3 Express X1, 2 Seriais, 1 Paralela, Low Profile - Jc-Pci-Prs",3
+Placas_Interfaces,,86.41,"Placa De Som PCI com 5 Canais DP-61, PC0046DEX",4
+Placas_Interfaces,,95.8,Placa Usb 3.0 Interna Com 4 Portas Pci-express 5 Gbps,5
+Placas_Interfaces,,43.11,"Placa De Som Externa USB, Som Virtual 7.1, Microfone - AD0021",6
+Placas_Interfaces,,149.0,"Placa USB 3.0 Pci Express X1, 2 Portas Com Low Profile Perfil Baixo Feasso - Jpu-03",7
+Placas_Interfaces,,1519.76,"Placa De Som Gamer Creative, Pci-e Express High-Performance Sound Blaster Z Se - 70sb150000004",8
+Placas_Interfaces,,104.42,Placa Com Usb 3.0 E 4 Portas Até 5gbps Pci-express 1x Pci-e Knup - Kp-t102,9
+Placas_Interfaces,,199.9,"Placa Expansão Pci, Express Pcie X1 X4 X8 X16, P/ USB, Tipo C, 3.0, 2 Portas, Adaptador Hub, Controlador",10
+Placas_Interfaces,,36.5,Placa Controladora Comtac Pci Com 1 Porta Paralela 9016,11
+Placas_Interfaces,,195.01,Placa De Som - 5.1 Canais - Pci-e,12
+Placas_Interfaces,,313.5,"Placa De Som, Creative Sound, Blaster Play 4 Externo",13
+Placas_Interfaces,,143.91,Placa De Interface De Audio Mxt Multifuncional Com Efeitos Para Live Streaming Mx-v8 - 054.0001.00137,14
+Placas_Interfaces,,38.92,Placa PCi-e Nvme Ad135 Knup,15
+Placas_Interfaces,,50.15,Placa Pci Com 5 Portas Usb 2.0 480 Mbps Dp-52,16
+Placas_Interfaces,,1597.39,Placa De Som Pci-E - Sound Blaster X Ae-5 Plus- Rgb - 70Sb174000003,17
+Placas_Interfaces,,165.0,Placa Pci Express 2 Portas Seriais Comtac 9049,18
+Placas_Interfaces,,2613.52,"Placa De Som, Sound Blaster X G6, 7.1 Para Ps4, Xbox One, Nintendo Switch E Pc - 70sb177000000",19
+Placas_Interfaces,,175.41,"Placa De Som PCI, 5.1 Canais - 32 Bits",20
+Placas_Interfaces,,75.53,"Placa de Som DEX X1, PCIe, Usb 3.0 5gbps Com 4 Portas.",21
+Placas_Interfaces,,7657.08,"Servidor Lenovo St50 V2 Xeon E-2324g, 16GB, hdtb",22
+Placas_Interfaces,,589.99,Placa De Som Creative Sound Blaster Audigy - Fx Pci-e 5853,23
+Placas_Interfaces,,165.61,Placa Controladora Akasa Vegas Para Fitas Led - Até 8 Dispositivos Rgb - Ak-rld-03,24
+Placas_Interfaces,,57.61,Placa USB 3.0 5gbps Pci-e X1 Com 2 Portas + Perfil Baixo Comm5 - 2usb-pci-e,25
+Placas_Interfaces,,122.42,Placa Pci Express 4 Portas Usb 3.0 Comtac 9349,26
+Placas_Interfaces,,465.08,"Placa De Som Asus Xonar Se, 5.1 - Pci-e - 90ya00t0-m0ua00",27
+Placas_Interfaces,,95.96,Placa Controladora Pci-e X1 Usb 3.0 (5gbps) Com 4 Portas Usb,28
+Placas_Interfaces,,152.87,"Placa PCI Express, Com 2 Portas USB 3.0, Akasa, AK-PCCU3-01",29
+Placas_Interfaces,,42.0,Placa Pci 2 Portas Seriais Comtac 9015,30
+Placas_Interfaces,,51.68,"Placa Controladora PCi, Legacy,gv Brazil, 2 Seriais, - PCi.18401",31
+Placas_Interfaces,,28.9,Adaptador Porta Serial Hp 611901-001 Perfil Baixo (15 Pinos),32
+Placas_Interfaces,,311.78,Kit Placa DVR Seykon Pci Sk-9808 8 Canais Real Time,33
+Placas_Interfaces,,921.81,Placa Raspberry 8GB 64bit 5.0v Usb-c Pi4 Model B Raspberry,34
+Placas_Interfaces,,78.09,Placa Comando Impacta 140/220 4990108 Intelbras,35
+Placas_Interfaces,,11.48,Placa 16 Ramais Digitais 141 051 Intelbras,36
+Placas_Interfaces,,93.16,"Placa PCi-e Controladora Gv Brasil, 2 Seriais + 1 Paralela - PCi.567",37
+Placas_Interfaces,,249.9,Placa De Expansão Usb 3.1 Tipo-c 5gbps Com 4 Portas,38
+Placas_Interfaces,,174.94,"Placa Central Ppa de Comando Agility Legero, Bivolt 50hz, 60hz - A22518",39
+Placas_mae,-13%,519.99,"Placa Mãe Asus TUF GAMING A520M-PLUS II, AMD AM4, mATX, DDR4",0
+Placas_mae,-9%,394.99,"Placa Mãe MSI A520M-A PRO, AMD AM4, mATX, DDR4",1
+Placas_mae,-7%,999.99,"Placa-Mãe MSI MPG B550 Gaming Plus, AMD AM4, ATX",2
+Placas_mae,-14%,849.99,"Placa Mãe Gigabyte B550M Aorus Elite (rev. 1.3), AMD AM4, Micro ATX, DDR4 - B550M AORUS ELITE",3
+Placas_mae,-13%,529.99,"Placa Mãe Gigabyte H610M (rev. 1.0), Intel LGA1700, H610, DDR4, mATX - H610M H DDR4",4
+Placas_mae,-7%,769.99,"Placa Mãe ASRock B450M Steel Legend, AMD AM4, mATX, DDR4",5
+Placas_mae,-19%,1064.98,"Placa Mãe Asus TUF Gaming B550M-Plus, AMD AM4, mATX, DDR4",6
+Placas_mae,-5%,859.99,"Placa-Mãe MSI B550M Pro-VDH WiFi, AMD AM4, mATX",7
+Placas_mae,-19%,629.99,"Placa Mãe Asus Prime H610M-A D4, LGA 1700 H610, mATX, DDR4",8
+Placas_mae,-11%,1299.99,"Placa Mãe MSI B650M Gaming Plus, AMD AM5, M-ATX, DDR5, Wi-Fi - B650M GAMING PLUS WIFI",9
+Placas_mae,-14%,849.9,"Placa-Mãe Asus TUF Gaming B550M-PLUS, AMD AM4, mATX , DDR4, M.2, Aura para fita RGB - 90MB14A0-C1BAY0",10
+Placas_mae,-15%,919.99,"Placa Mãe Gigabyte B650M Gaming (Rev.1.0), AMD AM5, mATX, DDR5, RGB, WiFi - B650M GAMING WIFI",11
+Placas_mae,-10%,1249.99,"Placa Mãe Asus TUF Gaming B650M-E, WIFI, AMD AM5, B650, DDR5 - 90MB1FV0-M0EAY0",12
+Placas_mae,-2%,488.9,"Placa Mãe Asus Prime A520M-E, AMD AM4, mATX, DDR4",13
+Placas_mae,-17%,844.99,"Placa Mãe MSI Pro B650M-P, AMD AM5, M-ATX, DDR5 - PRO B650M-P",14
+Placas_mae,-5%,819.9,"Placa-Mãe Gigabyte B550M Aorus Elite, AMD AM4, Micro ATX, DDR4",15
+Placas_mae,-6%,559.99,"Placa Mãe ASUS Prime H510M-A R2.0, Intel, ATX, DDR4, LGA 1200, H470 - 90MB1FP0-M0EAY0",16
+Placas_mae,-2%,559.99,"Placa Mãe MSI B450M-A Pro Max, AMD AM4, Micro-ATX, DDR4",17
+Placas_mae,-24%,549.99,"Placa Mãe MSI Pro H610M-E DDR4, Intel LGA 1700, M-ATX, DDR4 - PRO H610M-E DDR4",18
+Placas_mae,-11%,1319.99,"Placa Mãe ASUS TUF GAMING B760M-PLUS WIFI II, Intel, DDR5 - 90MB1HE0-M0EAY0",19
+Placas_mae,-20%,559.99,"Placa Mãe Asus Prime H510M-A, Intel Socket LGA1200, microATX, DDR4",20
+Placas_mae,-5%,1494.99,"Placa Mãe Asus ROG Strix B550-F Gaming II, AMD AM4, ATX, DDR4, Wi-Fi, Aura Sync RGB",21
+Placas_mae,,689.99,"Placa Mãe Asus TUF GAMING A520M-PLUS WIFI, AMD AM4, mATX, DDR4, RGB - 90MB17F0-M0EAY0",22
+Placas_mae,,526.41,"Placa Mãe Msi B450m Pro-Vdh Max, AMD AM4, Matx, DDR4, Chipset B450 - 911-7a38-063",23
+Placas_mae,,484.99,"Placa Mãe MSI PRO H510M-B, Intel, M-ATX, DDR4 - PRO H510M-B",24
+Placas_mae,,854.99,"Placa Mãe Asus TUF GAMING A620M-PLUS, AMD AM5, mATX, DDR5 - 90MB1EZ0-M0EAY0",25
+Placas_mae,,939.99,"Placa Mãe MSI Pro B760-P DDR4 II, Intel LGA 1700, ATX, DDR4 - PRO B760-P DDR4 II",26
+Placas_mae,,1319.99,"Placa Mãe Gigabyte B760M AORUS ELITE (rev. 1.0), LGA 1700, DDR5",27
+Placas_mae,,599.99,"Placa-Mãe MSI B450M Pro-VDH Max p/ AMD AM4, m-ATX, DDR4",28
+Placas_mae,,739.99,"Placa Mãe Asus Prime B550M-A, AMD AM4, mATX, DDR4",29
+Placas_mae,,433.49,"Placa Mãe Gigabyte A520M DS3H V2, AMD, Micro ATX, DDR4 - A520M DS3H V2",30
+Placas_mae,,584.99,"Placa Mãe Asus Prime H610M-E D4, Intel LGA 1700, mATX, DDR4",31
+Placas_mae,,549.99,"Placa-Mãe Gigabyte H510M H V2, Intel LGA 1200, 10ª E 11ª Geração, mATX, DDR4 - H510M H V2",32
+Placas_mae,,1049.99,"Placa Mãe Asus TUF GAMING A620M-PLUS WIFI, AMD AM5, mATX, DDR5, Wi-Fi, Bluetooth - 90MB1F00-M0EAY0",33
+Placas_mae,,999.99,"Placa Mãe MSI PRO B760M-A, Intel, M-ATX, DDR5, Wi-Fi - PRO B760M-A WIFI",34
+Placas_mae,,1159.99,"Placa Mãe ASRock B650M PG Riptide, AMD, Micro ATX, DDR5 - 90-MXBJ9*",35
+Placas_mae,,709.99,"Placa-Mãe Asus TUF Gaming B450M-Plus II, AMD AM4, mATX, DDR4",36
+Placas_mae,,1059.99,"Placa Mãe ASUS TUF Gaming B760M-E D4, Intel, M-ATX, DDR4 - 90MB1E90-M0EAY0",37
+Placas_mae,,2239.99,"Placa Mãe Asus TUF Gaming X670E-Plus Wi-Fi, AMD X670, AM5, DDR5 - 90MB1BK0-M0EAY0",38
+Placas_mae,,639.99,"Placa Mãe MSI Pro A620M-E, AMD AM5, M-ATX, DDR5 - PRO A620M-E",39
+Placa_de_video,-5%,1639.99,"Placa de Vídeo RTX 3060 1-Click OC Galax NVIDIA GeForce, 12GB GDDR6, LHR, DLSS, Ray Tracing - 36NOL7MD1VOC",0
+Placa_de_video,-7%,1299.99,"Placa de Vídeo RX 6600 8G-V3 Dual ASUS AMD Radeon, 8GB GDDR6 - 90YV0GP3-M0NA00",1
+Placa_de_video,-6%,1899.99,"Placa de Vídeo RTX4060 1-Click OC 2X TecLab Lite GALAX NVIDIA GeForce, 8GB GDDR6, G-SYNC, DLSS, Ray Tracing",2
+Placa_de_video,-7%,2099.99,"Placa de Vídeo RX 6750XT Gaming XFX Graphics Card AMD Radeon, 12GB GDDR6, Ray tracing, Fidelity FX - RX-675TMBAF9",3
+Placa_de_video,-5%,2199.99,"Placa de Vídeo RTX 4060 8G V2 Gaming ATS OC ASUS NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync - 90YV0JM2-M0NA00",4
+Placa_de_video,-5%,1299.99,"Placa de Vídeo RX 6600 CLD 8G ASRock AMD Radeon, 8GB, GDDR6 - 90-GA2RZZ-00UANF",5
+Placa_de_video,-6%,1999.99,"Placa de Vídeo RTX 4060 VENTUS 2x Black OC MSI NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing",6
+Placa_de_video,-37%,1509.99,"Placa de Vídeo RX 6650XT XFX Speedster SWFT210 AMD Radeon, 8GB GDDR6, HDMI 3xDP 2 FAN - RX-665X8DFDY",7
+Placa_de_video,-15%,1289.99,"Placa de Vídeo RX 6600 XFX Core Gaming Speedster SWFT 210 AMD Radeon Graphics Card, 8GB GDDR6, AMD RDNA 2 - RX-66XL8LFDQ",8
+Placa_de_video,-19%,1899.99,"Placa de Video RTX 4060 Infinity 2 Palit NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync - NE64060019P1-1070L",9
+Placa_de_video,-14%,1299.99,"Placa de Vídeo RTX 3050 Windforce OC Gigabyte NVIDIA GeForce, 6GB GDDR6, DLSS, Ray Tracing - GV-N3050WF2OC-6GD",10
+Placa_de_video,,2569.99,"Placa de Vídeo RTX 4060 TI Ventus 2X Black 8G OC MSI NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing, G-Sync",11
+Placa_de_video,,1659.99,"Placa de Video RTX 3060 Palit NVIDIA GeForce, 12GB GDDR6, RGB, DLSS, G-Sync, Ray Tracing - NE63060019K9-190AD",12
+Placa_de_video,,769.99,"Placa de Vídeo RX 570 Phantom Gaming Elite ASRock AMD Radeon, 8GB GDDR5, HDR, FreeSync - 90-GA2PZZ-00UANF",13
+Placa_de_video,,1909.0,"Placa De Vídeo Galax Geforce RTX 4060, 8GB, 1 Click Oc V2, GDDR6, 128 Bit - 46nsl8md9nxv",14
+Placa_de_video,,1429.99,"Placa de Vídeo MSI RTX 3050 Ventus 2X XS OC NVIDIA GeForce, 8GB GDDR6 - 912-V809-4266",15
+Placa_de_video,,2299.99,"Placa de Vídeo RTX 4060 EAGLE OC Gigabyte NVIDIA GeForce, 8GB GDDR6, DLSS, Ray Tracing - GV-N4060EAGLE OC-8GD",16
+Placa_de_video,,2649.99,"Placa de Vídeo RTX 4060 Ti VENTUS 3X 8G OC MSI NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing",17
+Placa_de_video,,2199.99,"Placa de Vídeo RTX 4060 AERO OC Gigabyte NVIDIA GeForce, 8GB GDDR6, RGB, DLSS, Ray Tracing, Branco - GV-N4060AERO OC-8GD",18
+Placa_de_video,,1799.99,"Placa de Vídeo RX 7600 GAMING OC 8G AMD Radeon Gigabyte, 8GB GDDR6, 128bits, RGB - GV-R76GAMING OC-8GD",19
+Placa_de_video,,4199.99,Placa de Vídeo RTX 4070 Super 1-Click OC 2X TecLab Lite Galax NVIDIA GeForce - 47SOM7MDABCD,20
+Placa_de_video,,2899.99,"Placa de Vídeo RTX 4060 Ti OC Edition Asus TUF Gaming NVIDIA GeForce, 8 GB GDDR6, ARGB, DLSS - TUF-RTX4060TI-O8G-GAMING",21
+Placa_de_video,,2799.99,"Placa de Vídeo RTX 4060 Ti Eagle OC Gigabyte NVIDIA GeForce, 8 GB GDDR6, DLSS, Ray Tracing - GV-N406TEAGLE OC-8GD G10",22
+Placa_de_video,,1459.99,"Placa de Vídeo Gigabyte Radeon RX 6600 EAGLE AMD, 8GB GDDR6, Preto - GV-R66EAGLE-8GD",23
+Placa_de_video,,2142.92,"Placa De Vídeo Msi RTX 4060 Ventus 2x Oc Black, Nvidia GeForce, 8GB, GDDR6 - 912-V516-012",24
+Placa_de_video,,2719.9,"Placa De Vídeo RTX 4060 TI Ventus 2x Oc, MSI, Nvidia, 8GB RAM, GDDR6 - 912-V515-024",25
+Placa_de_video,,1599.99,"Placa de Vídeo RTX 3060 Ventus 2X MSI NVIDIA GeForce, 12GB GDDR6, DLSS, Ray Tracing - RTX 3060 Ventus 2X 12G OC",26
+Placa_de_video,,1159.99,"Placa de vídeo RTX 3050 EX Galax NVIDIA GeForce, 6GB GDDR6. DLSS, Ray Tracing, G-Sync - 527200-0119",27
+Placa_de_video,,849.99,"Placa de Vídeo GTX 1650 D6 Ventus XS OCV3 MSI NVIDIA GeForce, 4GB GDDR6, G- Sync - 912-V812-003",28
+Placa_de_video,,2999.99,"Placa de Video RTX 4060 TI PNY NVIDIA GeForce Verto Dual Fan, 16GB GDDR6, DLSS, Ray Tracing, G-Sync - VCG4060T16DFXPB1",29
+Placa_de_video,,5699.99,"Placa de Vídeo RTX 4070 Ti Super Gigabyte Eagle OC NVIDIA GeForce, 16GB GDDR6, DLSS, Ray Tracing - GV-N407TSEAGLE OC-16GD",30
+Placa_de_video,,849.99,"Placa de Vídeo Galax NVIDIA GeForce GTX 1650 EX Plus (1-Click OC), 4GB, GDDR6 - 65SQL8DS93E1",31
+Placa_de_video,,1799.99,"Placa de Vídeo RX7600 OC ASUS AMD Dual Radeon, 8GB GDDR6 - 90YV0IH2-M0NA00",32
+Placa_de_video,,2098.99,"Placa de vídeo RTX 4060 ASUS Dual 8G EVO OC NVIDIA GeForce, 8GB GDDR6, G-SYNC, Ray Tracing - 90YV0JC7-M0NA00",33
+Placa_de_video,,519.98,"Placa de Vídeo RX 550 AMD PCYes Dual Fan Projeto Edge, 4GB GDDR5, 128 BITS - PVEX5504GBDF",34
+Placa_de_video,,2659.9,"Placa de Vídeo Galax Nvidia Geforce RTX 4060 TI Click OC, 8GB, GDDR6, DLSS Ray Tracing - 46ISL8MD8COC",35
+Placa_de_video,,799.9,"Placa de Vídeo MSI NVIDIA GeForce GTX 1650 D6 Ventus XS OCV3, 4GB, GDDR6, 128 Bits - 912-V812-003",36
+Placa_de_video,,1799.99,"Placa de Vídeo RX 7600 Challenger ASRock AMD Radeon, 8GB GDDR6 - 90-GA41ZZ-00UANF",37
+Placa_de_video,,1049.99,"Placa de Video RTX 3050 Stormix Palit NVIDIA GeForce, 6GB GDDR6, DLSS, Ray Tracing, Adaptive Sync - NE63050018JE-1070F",38
+Placa_de_video,,2699.99,"Placa de Vídeo RTX 4060 TI O8G EVO OC ASUS NVIDIA GeForce, 8GB GDDR6, DLSS3, Ray Tracing, G-Sync",39
+Processadores,-5%,1439.99,"Processador AMD Ryzen 7 5700X3D, 3.6 GHz, (4.1GHz Max Turbo), Cachê 4MB, 8 Núcleos, 16 Threads, AM4 - 100-100001503WOF",0
+Processadores,-52%,934.99,"Processador AMD Ryzen 5 5600GT, 3.6 GHz, (4.6GHz Max Turbo), Cachê 4MB, 6 Núcleos, 12 Threads, AM4 - 100-100001488BOX",1
+Processadores,-7%,799.99,"Processador Intel Core i5-12400F, 2.5GHz (4.4GHz Max Turbo), Cache 18MB, LGA 1700 - BX8071512400F",2
+Processadores,-42%,597.99,"Processador AMD Ryzen 5 5500, 3.6GHz (4.2GHz Max Turbo), Cache 19MB, AM4, Sem Vídeo - 100-100000457BOX",3
+Processadores,-53%,879.99,"Processador AMD Ryzen 5 5600, 3.5GHz (4.4GHz Max Turbo), Cache 35MB, AM4, Sem Vídeo - 100-100000927BOX",4
+Processadores,-50%,603.9,"Processador AMD Ryzen 5 5500, 3.6GHz, Cache 16MB, Hexa Core, 12 Threads, AM4 - 100-100000457BOX",5
+Processadores,-5%,1169.99,"Processador AMD Ryzen 7 5700X, 3.4GHz (4.6GHz Max Turbo), Cache 36MB, AM4, Sem Vídeo - 100-100000926WOF",6
+Processadores,-5%,1239.99,"Processador AMD Ryzen 5 7600, 5.1GHz Max Turbo, Cache 38MB, AM5, 6 Núcleos, Vídeo Integrado - 100-100001015BOX",7
+Processadores,-36%,728.99,"Processador AMD Ryzen 5 4600G, 3.7GHz (4.2GHz Max Turbo), Cache 11MB, AM4, Vídeo Integrado - 100-100000147BOX",8
+Processadores,-60%,398.99,"Processador AMD Ryzen 3 3200G, 3.6GHz (4GHz Max Turbo), Cache 4MB, Quad Core, 4 Threads, AM4 - YD3200C5FHBOX",9
+Processadores,-15%,1099.99,"Processador AMD Ryzen 5 5600X, 3.7GHz (4.6GHz Max Turbo), Cache 35MB, 6 Núcleos, 12 Threads, AM4 - 100-100000065BOX",10
+Processadores,-46%,1159.99,"Processador AMD Ryzen 7 5700G, 3.8GHz (4.6GHz Max Turbo), Cache 20MB, 8 Núcleos, 16 Threads, Vídeo Integrado, AM4 - 100-100000263BOX",11
+Processadores,-9%,1019.99,"Processador Intel Core i5-12400, 2.5GHz (4.4GHz Max Turbo), Cache 18MB, LGA 1700 - BX8071512400",12
+Processadores,-9%,1059.99,"Processador AMD Ryzen 7 5700, 3.7 GHz (4.6GHz Max Turbo), Cachê 4MB, 8 Núcleos, 16 Threads, AM4 - 100-100000743BOX",13
+Processadores,-5%,614.99,"Processador Intel Core i5-10400F, 2.9GHz (4.3GHz Max Turbo), Cache 12MB, 6 Núcleos, 12 Threads, LGA 1200 - BX8070110400F",14
+Processadores,-28%,849.9,"Processador AMD Ryzen 5 5600GT, 4.6GHz, Cache 19MB, AM4, 6 núcleos, 12 threads, Placa de Vídeo, Com Cooler - 100-100001488",15
+Processadores,,519.99,"Processador AMD Ryzen 5 4500, 3.6GHz (4.1GHz Max Turbo) Cache 11MB, AM4, Sem Vídeo - 100-100000644BOX",16
+Processadores,,1899.99,"Processador Intel Core i7-12700K, 3.6GHz (5.0GHz Max Turbo), 12 Núcleos, 20 Threads, LGA 1700, Vídeo Integrado - BX8071512700K",17
+Processadores,,639.99,"Processador Intel Core i3-10105, 3.7GHz (4.4GHz Max Turbo), Cache 6MB, Quad Core, 8 Threads, LGA 1200, Vídeo Integrado - BX8070110105",18
+Processadores,,2699.99,"Processador Intel Core i7-14700K, 14ª Geração, 5.6 GHz Max Turbo, Cache 33MB, 20 Núcleos, 28 Threads, LGA1700 - BX8071514700K",19
+Processadores,,1499.99,"Processador AMD Ryzen 7 5800X, 3.8GHz (4.7GHz Max Turbo), Cache 36MB, Octa Core, 16 Threads, AM4 - 100-100000063WOF",20
+Processadores,,1939.99,"Processador Intel Core i5-14600K, 14ª Geração, 5.3 GHz Max Turbo, Cache 24MB, 14 Núcleos, 20 Threads, LGA1700 - BX8071514600K",21
+Processadores,,2299.99,"Processador AMD Ryzen 9 5900X, 3.7GHz (4.8GHz Max Turbo), Cache 70MB, 12 Núcleos, 24 Threads, AM4 - 100-100000061WOF",22
+Processadores,,2699.99,"Processador AMD Ryzen 7 7700X, 5.4GHz Max Turbo, Cache 40MB, AM5, 8 Núcleos, Vídeo Integrado - 100-100000591WOF",23
+Processadores,,2699.99,"Processador Intel Core i7-14700KF, 14ª Geração, 5.6 GHz Max Turbo, Cache 33MB, 20 Núcleos, 28 Threads, LGA1700 - BX8071514700KF",24
+Processadores,,839.99,"Processador Intel Core i5-10400, 2.9GHz (4.3GHz Max Turbo), Cache 12MB, LGA 1200 - BX8070110400",25
+Processadores,,2039.99,"Processador Intel Core i5-14600KF, 14ª Geração, 5.3 GHz Max Turbo, Cache 24MB, 14 Núcleos, 20 Threads, LGA1700 - BX8071514600KF",26
+Processadores,,1263.99,"Processador AMD Ryzen 5 8600G, 4.3 GHz (5.0GHz Max Turbo), Cachê 6MB, 6 Núcleos, 12 Threads, AM5, Vídeo Integrado - 100-100001237BOX",27
+Processadores,,1699.99,"Processador Intel Core i7-12700F, 2.1GHz (4.9GHz Max Turbo), Cache 25MB, LGA 1700 - BX8071512700F",28
+Processadores,,1739.99,"Processador AMD Ryzen 7 8700F, 4.1 GHz (5.0 GHz Max Turbo), Cachê 24MB, 8 Núcleos, 16 Threads, AM5 - 100-100001590BOX",29
+Processadores,,1137.99,"Processador Intel Core i5-12600KF, 3.7GHz (4.9Ghz Max Turbo), Cache 20MB, Quad Core, 16 Threads, LGA 1700 - BX8071512600KF",30
+Processadores,,1999.99,"Processador AMD Ryzen 7 7700, 5.3GHz Max Turbo, Cache 40MB, AM5, 8 Núcleos, Vídeo Integrado - 100-100000592BOX",31
+Processadores,,3799.99,"Processador Intel Core i9-14900K, 14ª Geração, 6GHz Max Turbo, Cache 36MB, 24 Núcleos, 32 Threads, LGA1700 - BX8071514900K",32
+Processadores,,999.99,"Processador AMD Ryzen 5 8500G, 3.5 GHz (5.0GHz Max Turbo), Cachê 22MB, 6 Núcleos, 12 Threads, AM5, Vídeo Integrado - 100-100000931BOX",33
+Processadores,,1607.63,"Processador AMD Ryzen 5 7600X, 5.3GHz, Cache 38MB, AM5, Radeon Graphics - 100-100000593WOF",34
+Processadores,,709.99,"Processador Intel Core i5-11400F, 2.6 GHz (4.4GHz Turbo), Cache 12MB, 6 Núcleos, 12 Threads, LGA1200 - BX8070811400F",35
+Processadores,,1299.99,"Processador AMD Ryzen 5 8400F, 4.2 GHz (4.7 GHz Max Turbo), Cachê 22MB, AM5, 6 Núcleos, 12 Threads - 100-100001591BOX",36
+Processadores,,2139.99,"Processador AMD Ryzen 9 5900XT, 3,3 GHz (4.8 GHz), Cache 64MB, 16 Núcleos, 32 Threads, AM4 - 100-100001581WOF",37
+Processadores,,1399.99,"Processador Intel Core i5-13400, 4.6GHz Max Turbo, Cache 20MB, 10 Núcleos, 16 Threads, LGA 1700, Vídeo Integrado - BX8071513400",38
+Processadores,,2998.99,"Processador AMD Ryzen 9 7900X, 5.6GHz Max Turbo, Cache 76MB, AM5, 12 Núcleos, Vídeo Integrado - 100-100000589WOF",39
+SSD,-13%,369.99,"SSD 1 TB Kingston NV2, M.2 2280 PCIe, NVMe, Leitura: 3500 MB/s e Gravação: 2100 MB/s - SNV2S/1000G",0
+SSD,-20%,259.99,"SSD SATA WD Green, 480GB, 2.5"", Leitura: 545MB/s e Gravação: 430MB/s, Preto - WDS480G3G0A",1
+SSD,-16%,799.99,"SSD Kingston Fury Renegade, 1 TB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 7300 MB/s, Gravação: 6000 MB/s, Compatível com PS5 - SFYRS/1000G",2
+SSD,-9%,199.99,"SSD Kingston A400, 480 GB, SATA III, 2.5"", Leitura: 500 MB/s, Gravação: 450 MB/s, Preto - SA400S37/480G",3
+SSD,-10%,349.99,"SSD Kingston A400, 960 GB, SATA III, 2.5"", Leitura: 500 MB/s, Gravação: 450 MB/s, Preto - SA400S37/960G",4
+SSD,-27%,289.99,"SSD Kingston NV2, 500 GB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 3500 MB/s, Gravação: 2100 MB/s, Azul - SNV2S/500G",5
+SSD,-7%,178.99,"SSD Kingston A400, 240 GB, SATA III, 2.5"", Leitura: 500 MB/s, Gravação: 350 MB/s, Preto - SA400S37/240G",6
+SSD,-26%,394.19,"SSD 1TB Kingston Nv2, M.2 2280 PCIe, NVMe, Leitura 3500MB/s, Gravação 2100MB/s - Snv2s/1000g",7
+SSD,-13%,79.99,"SSD SATA Rise Mode Line, 120GB, 2.5"", Leitura 535MB/s, Gravação 435MB/s, Preto - RM-SSD-120",8
+SSD,-20%,509.99,"SSD Kingston NV3, 1 TB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 6000 MB/s, Gravação: 4000 MB/s, Azul - SNV3S/1000G",9
+SSD,-22%,138.99,"SSD SATA Adata SU650, 240GB, 2.5"", Leitura: 520MB/s e Gravação: 450MB/s, Preto - ASU650SS-240GT-R",10
+SSD,-4%,129.99,"SSD 256GB KBM! Gaming, SATA III, leitura 500mbs/ Gravacao 450mbs - KGSSD110256",11
+SSD,-28%,949.99,"SSD Kingston NV2, 2 TB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 3500 MB/s, Gravação: 2800 MB/s, Azul - SNV2S/2000G",12
+SSD,-11%,279.99,"SSD Adata Legend 710, 512GB, M.2 2280 PCIe GEN3x4, NVMe 1.4, Leitura: 2.400 MB/s e Gravação: 1.800 MB/s, Azul - ALEG-710-512GCS",13
+SSD,-9%,549.99,"SSD Kingston KC3000, 1 TB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 7000 MB/s, Gravação: 6000 MB/s, Preto - SKC3000S/1024G",14
+SSD,-11%,69.99,"SSD 128GB KBM! Gaming, SATA III, leitura 500mbs/ Gravacao 450mbs - KGSSD110128",15
+SSD,-8%,479.99,"SSD 1TB SanDisk Plus NVMe, M.2, PCle, Gen3, Leitura 3.200 e Gravação acima de 3.200 - SDSSDA3N-1T00-G26",16
+SSD,-12%,19.99,"Kingston Adaptador de SSD 2,5, para Baia 3,5 - SNA-BR2/35",17
+SSD,-12%,358.99,"SSD SATA WD Green, 1TB, 2.5"", Leitura: 545MB/s e Gravação: 550MB/s, Preto - WDS100T3G0A",18
+SSD,-19%,99.99,"SSD Rise Mode Gamer Z Series 128GB, Sata, Leitura: 535MB/s e Gravação: 435MB/s - RM-SSD-128",19
+SSD,-6%,119.99,"SSD SATA Adata SU650, 120GB, 2.5"", Leitura: 520MB/s e Gravação: 450MB/s, Preto - ASU650SS-120GT-R",20
+SSD,-9%,159.99,"SSD PCIe Lexar Internal NM620, 256GB, Leitura 3500MB/s e Gravação 1300MB/s, Preto - LNM620X256G-RNNNU",21
+SSD,-21%,449.99,"SSD ADATA 1TB, M.2 2280, NVME, PCIe gen 4x4, Leitura: 3.500MB/s e Gravação: 2.800MB/s - ALEG-800-1000GCS",22
+SSD,-14%,219.99,"SSD Kingston NV2 250 GB, M.2 2280 PCIe, NVMe, Leitura: 3000 MB/s e Gravação: 1300 MB/s - SNV2S/250G",23
+SSD,-11%,159.99,"SSD SATA Crucial BX500, 240GB, 2.5"", Leitura: 540MB/s e Gravação: 500MB/s, Preto - CT240BX500SSD1",24
+SSD,,229.99,"SSD 480 GB WD Green, M.2, Leitura: 545MB/s - WDS480G3G0B",25
+SSD,,219.99,"SSD 512GB KBM! Gaming, SATA III, Leitura 520 MB/s, Gravação 450 MB/s - KGSSD110512",26
+SSD,,139.99,"SSD SATA Lexar, 240GB, 2.5"", Leitura 550MB/s, Cinza - LNQ100X240G-RNNNU",27
+SSD,,299.99,"SSD PCIe Lexar Internal NM620, 512GB, Leitura 3500MB/s e Gravação 2400MB/s, Preto - LNM620X512G-RNNNU",28
+SSD,,175.99,"SSD SATA WD Green, 240GB, 2.5"", Leitura: 545MB/s e Gravação: 430MB/s, Preto - WDS240G3G0A",29
+SSD,,334.99,"SSD Kingston NV3, 500 GB, M.2 2280, PCIe 4.0 x4, NVMe, Leitura: 5000 MB/s, Gravação: 3000 MB/s, Azul - SNV3S/500G",30
+SSD,,679.99,"SSD ADATA XPG 1TB, S70 Blade, PCIe Gen4x4, M.2 2280, NVMe, Leitura: 7400MB/s e Gravação: 5500MB/s, 3D NAND - AGAMMIXS70B-1T-CS",31
+SSD,,269.99,"SSD SATA Sandisk, 480GB, 2.5"" Leitura: 535MB/s e Gravação: 445MB/s Preto - SDSSDA-480G-G26",32
+SSD,,129.99,"SSD SATA Patriot Burst Elite, 240GB, 2.5"", Leitura: 450MB/s e Gravação: 320MB/s, Preto - PBE240GS25SSDR",33
+SSD,,549.99,"SSD Externo Kingston XS1000, 1 TB, USB 3.2 Gen 2x2, Portátil, Leitura: 1050 MB/s, Gravação: 1050 MB/s, Preto - SXS1000/1000G",34
+SSD,,169.99,"SSD Rise Mode Gamer Z Series 256GB, Sata, Leitura: 535MB/s e Gravação: 435MB/s - RM-SSD-256",35
+SSD,,169.99,"SSD 240 GB WD Green, M.2, Leitura: 545MB/s - WDS240G3G0B",36
+SSD,,1149.99,"SSD 2TB XPG S70 Blade, PCIe Gen4x4, M.2 NVMe, Leitura: 7400MB/s e Gravação: 6400MB/s, 3D NAND - AGAMMIXS70B-2T-CS",37
+SSD,,309.99,"SSD 500GB SanDisk Plus NVMe, M.2, PCle, Gen3, Leitura 2400MB/s e Gravação 2400MB/s - SDSSDA3N-500G-G26",38
+SSD,,239.99,"SSD 500GB Crucial BX500 SATA, 3D NAND, Leitura: 540Mb/s e Gravação: 500Mb/s - CT500BX500SSD1",39
