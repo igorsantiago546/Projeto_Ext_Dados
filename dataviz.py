@@ -1,5 +1,5 @@
 import streamlit as st
-# import plotly.express as px
+import plotly.express as px
 import pandas as pd
 from sqlalchemy import create_engine 
 engine = create_engine('sqlite:///banco.db', echo=True)
@@ -24,13 +24,13 @@ df2 = df_lido.loc[df_lido['Categoria']==categoria_escolhido]
 st.write(f'Categoria escolhida: {categoria_escolhido}')
 st.write(f'Preços por componente')
 
-fig = st.box(df2, x='Preço')
+fig = px.box(df2, x='Preço')
 st.plotly_chart(fig)
 
-fig2 = st.pie(df2, 'Preço')
+fig2 = px.pie(df2, 'Preço')
 st.plotly_chart(fig2)
 
-fig3 = st.bar(
+fig3 = px.bar(
     df2,
     x="Produto",
     y="Preço",
