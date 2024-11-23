@@ -4,13 +4,12 @@ import pandas as pd
 # from sqlalchemy import create_engine 
 import sqlite3 as sql
 
-db_path = "../banco.db"
-conn = sql.connect(db_path)
-cursor = conn.cursor()
-
-cursor.execute('SELECT * FROM dados')
-
-df = cursor.fetchall
+def database():
+    db_path = "../banco.db"
+    conn = sql.connect(db_path)
+    cursor = conn.cursor()
+    consulta = cursor.execute('SELECT * FROM dados')
+    return consulta
 
 ##engine = create_engine('sqlite:///banco.db', echo=True)
 
@@ -27,10 +26,10 @@ st.sidebar.header('Escolha o Hardware')
 
 # df = pd.read_csv('./basestratadas/Dados_tratados.csv', sep=',', encoding='utf-8')
 
-categoria = df['Categoria'].drop_duplicates()
+categoria = database['Categoria'].drop_duplicates()
 categoria_escolhido = st.sidebar.selectbox('Selecione uma catgoria', categoria)
 
-df2 = df.loc[df['Categoria']==categoria_escolhido]
+df2 = database.loc[database['Categoria']==categoria_escolhido]
 st.write(f'Categoria escolhida: {categoria_escolhido}')
 st.write(f'Preços por componente')
 
