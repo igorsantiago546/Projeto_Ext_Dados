@@ -26,10 +26,10 @@ st.sidebar.header('Escolha o Hardware')
 
 # df = pd.read_csv('./basestratadas/Dados_tratados.csv', sep=',', encoding='utf-8')
 
-categoria = database['Categoria'].drop_duplicates()
+categoria = database()['Categoria'].drop_duplicates()
 categoria_escolhido = st.sidebar.selectbox('Selecione uma catgoria', categoria)
 
-df2 = database.loc[database['Categoria']==categoria_escolhido]
+df2 = database().loc[database()['Categoria']==categoria_escolhido]
 st.write(f'Categoria escolhida: {categoria_escolhido}')
 st.write(f'Preços por componente')
 
