@@ -19,17 +19,17 @@ def database():
     #df = pd.read_sql(query, con=engine)
     #return df 
 
-#df_lido = carregar_dados()
+df_lido = database()
     
 st.write('**APP Informática**')
 st.sidebar.header('Escolha o Hardware')
 
 # df = pd.read_csv('./basestratadas/Dados_tratados.csv', sep=',', encoding='utf-8')
 
-categoria = database()['Categoria'].drop_duplicates()
+categoria = df_lido['Categoria'].drop_duplicates()
 categoria_escolhido = st.sidebar.selectbox('Selecione uma catgoria', categoria)
 
-df2 = database().loc[database()['Categoria']==categoria_escolhido]
+df2 = df_lido.loc[df_lido()['Categoria']==categoria_escolhido]
 st.write(f'Categoria escolhida: {categoria_escolhido}')
 st.write(f'Preços por componente')
 
