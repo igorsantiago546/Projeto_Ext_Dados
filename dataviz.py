@@ -5,7 +5,7 @@ import pandas as pd
 import sqlite3 as sql
 
 def database():
-    db_path = "../banco.db"
+    db_path = "banco.db"
     conn = sql.connect(db_path)
     cursor = conn.cursor()
     consulta = cursor.execute('SELECT * FROM dados')
