@@ -1,16 +1,26 @@
 import streamlit as st
 import plotly.express as px
 import pandas as pd
+from sqlalchemy import create_engine 
+engine = create_engine('sqlite:///banco.db', echo=True)
 
+def carregar_dados():
+    engine = create_engine('sqlite:///banco.db')
+    query = 'SELECT * FROM dados'
+    df = pd.read_sql(query, con=engine)
+    return df 
+
+df_lido = carregar_dados()
+    
 st.write('**APP Informática**')
 st.sidebar.header('Escolha o Hardware')
 
-df = pd.read_csv('./basestratadas/Dados_tratados.csv', sep=',', encoding='utf-8')
+# df = pd.read_csv('./basestratadas/Dados_tratados.csv', sep=',', encoding='utf-8')
 
-categoria = df['Categoria'].drop_duplicates()
+categoria = df_lido['Categoria'].drop_duplicates()
 categoria_escolhido = st.sidebar.selectbox('Selecione uma catgoria', categoria)
 
-df2 = df.loc[df['Categoria']==categoria_escolhido]
+df2 = df_lido.loc[df_lido['Categoria']==categoria_escolhido]
 st.write(f'Categoria escolhida: {categoria_escolhido}')
 st.write(f'Preços por componente')
 
