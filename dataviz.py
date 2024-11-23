@@ -1,10 +1,10 @@
 import streamlit as st
-import plotly.express
+# import plotly.express as px
 import pandas as pd
 from sqlalchemy import create_engine 
 import sqlite3 as sql
 
-db_path = "banco.db"
+db_path = "meu_banco.db"
 conn = sql.connect(db_path)
 cursor = conn.cursor()
 
@@ -30,24 +30,24 @@ df2 = df_lido.loc[df_lido['Categoria']==categoria_escolhido]
 st.write(f'Categoria escolhida: {categoria_escolhido}')
 st.write(f'Preços por componente')
 
-fig = plotly.express.box(df2, x='Preço')
-st.plotly_chart(fig)
+#fig = px.box(df2, x='Preço')
+#st.plotly_chart(fig)
 
-fig2 = plotly.express.pie(df2, 'Preço')
-st.plotly_chart(fig2)
+#fig2 = px.pie(df2, 'Preço')
+#st.plotly_chart(fig2)
 
-fig3 = plotly.express.bar(
-    df2,
-    x="Produto",
-    y="Preço",
-    title="Gráfico de Barras",
-    labels={"Produto": "Produtos", "Preço": "Preços"},
-    text="Preço",
-    color="Produto"
-)
+#fig3 = px.bar(
+    #df2,
+    #x="Produto",
+    #y="Preço",
+    #title="Gráfico de Barras",
+   # labels={"Produto": "Produtos", "Preço": "Preços"},
+  #  text="Preço",
+ #   color="Produto"
+#)
 
 
-st.plotly_chart(fig3)
+#st.plotly_chart(fig3)
 
 
 col1, col2, col3 = st.columns(3)
