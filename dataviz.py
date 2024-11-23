@@ -2,6 +2,12 @@ import streamlit as st
 import plotly.express as px
 import pandas as pd
 from sqlalchemy import create_engine 
+import sqlite3 as sql
+
+db_path = "banco.db"
+conn = sql.connect(db_path)
+cursor = conn.cursor()
+
 engine = create_engine('sqlite:///banco.db', echo=True)
 
 def carregar_dados():
