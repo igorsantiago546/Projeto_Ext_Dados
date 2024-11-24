@@ -1,5 +1,5 @@
 import streamlit as st
-#import plotly.express as px
+import plotly.express as px
 import pandas as pd
 # from sqlalchemy import create_engine 
 import sqlite3 as sql
