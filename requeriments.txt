@@ -1,6 +1,6 @@
-pandas
-plotly
 streamlit
+plotly.express
+pandas
 flask
 selenium
 missingno
